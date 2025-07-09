@@ -16,6 +16,9 @@ This project demonstrates basic web development skills using semantic HTML and C
 - [Repository Link](#repository-link)
 
 ---
+## Screenshot
+![Screenshot (17)](https://github.com/user-attachments/assets/c65bd3df-2e7c-46a9-80f4-a0a0a5239439)
+
 
 ## Installation
 
