@@ -24,7 +24,7 @@ To run this project locally:
 1. Clone the repository to your local machine using:
 
    ```bash
-   git clone https://github.com/R-B427/Pipeline-Task.git
+   git clone https://github.com/R-B427/MyCV.git
 ## Credits
 R.Brown
 Github: https://github.com/R-B427/MyCV
